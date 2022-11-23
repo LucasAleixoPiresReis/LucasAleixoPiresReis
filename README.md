@@ -38,12 +38,10 @@ Slack - https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack
 Zoom - https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
 -->
 
-</div>
-
 ---
-<!-- Painel de desempenho e linguagens utilizadas -->
-<div align="center">
-  <a href="https://github.com/LucasAleixoPiresReis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAleixoPiresReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAleixoPiresReis&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAleixoPiresReis&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAleixoPiresReis&layout=compact&theme=tokyonight"/>
+  
+  </div>
