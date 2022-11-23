@@ -41,6 +41,6 @@ Zoom - https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&lo
 ---
 
 <div>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasAleixoPiresReis&show_icons=true&theme=tokyonight"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAleixoPiresReis&layout=compact&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasAleixoPiresReis&show_icons=true&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAleixoPiresReis&layout=compact&theme=tokyonight"/>
   </div>
