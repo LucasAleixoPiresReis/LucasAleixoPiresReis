@@ -7,9 +7,9 @@ Tenho 28 anos, moro em Belo Horizonte/MG e sou iniciante na área de análise de
 - 📝 Eu regularmente escrevo artigos no [Medium](https://medium.com/@lucasaleixopiresreis) sobre o universo da ciência e análise de dados. Também compartilho no Medium textos sobre os resultados alcançados em cada um dos projetos desenvolvidos. 
 - 🗂️ Você pode conhecer os meus projetos através do site - Portifólio de projetos - ou acessá-los diretamente pelos repositórios presentes aqui:
 
-  - [Python](https://github.com/LucasAleixoPiresReis/Python_DataAnalysis_Visualization_Projects) 
+  - [Python](https://github.com/LucasAleixoPiresReis/python-data-analysis-projects) 
   - R
-  - [SQL](https://github.com/LucasAleixoPiresReis/SQL_DataAnalysis_Visualization_Projects)
+  - [SQL](https://github.com/LucasAleixoPiresReis/sql-data-analysis-projects)
 
 
 ##
