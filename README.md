@@ -2,7 +2,7 @@
 
 Tenho 28 anos, moro em Belo Horizonte/MG e sou iniciante na área de análise de dados.
 - 🔭 Atualmente estou trabalhando na minha migração de carreira para a área de Dados.
-- 🌱 Eu tenho me dedicado à minha migração de carreira para a área de Dados. Trabalho com projetos pessoais de análise e visualização de dados para adquirir domínio sobre as ferramentas da área de Dados e experiência na solução de problemas de negócio.
+- 🌱 Trabalho com projetos pessoais de análise e visualização de dados para adquirir domínio sobre as ferramentas da área de Dados e experiência na solução de problemas de negócio.
 - 👯 Estou buscando uma oportunidade de trabalhar profissionalmente como Analista de Dados para empregar minhas habilidades analíticas e auxiliar empresas na orientação de sua estratégia de negócio, através da construção de soluções utilizando dados.
 - 📝 Eu regularmente escrevo artigos no [Medium](https://medium.com/@lucasaleixopiresreis) sobre o universo da ciência e análise de dados. Também compartilho no Medium textos sobre os resultados alcançados em cada um dos projetos desenvolvidos. 
 - 🗂️ Você pode conhecer os meus projetos através do site - [Portifólio de projetos](https://lucasaleixopiresreis.github.io/website-portifolio-projetos/) - ou acessá-los diretamente pelos repositórios presentes aqui:
