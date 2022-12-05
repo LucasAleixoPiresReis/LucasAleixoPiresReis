@@ -8,7 +8,6 @@ Tenho 28 anos, moro em Belo Horizonte/MG e sou iniciante na área de análise de
 - 🗂️ Você pode conhecer os meus projetos através do site - [Portifólio de projetos](https://lucasaleixopiresreis.github.io/website-portifolio-projetos/) - ou acessá-los diretamente pelos repositórios presentes aqui:
 
   - [Python](https://github.com/LucasAleixoPiresReis/python-data-analysis-projects) 
-  - R
   - [SQL](https://github.com/LucasAleixoPiresReis/sql-data-analysis-projects)
 
 
